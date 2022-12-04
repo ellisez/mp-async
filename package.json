@@ -1,0 +1,20 @@
+{
+  "name": "mp-async",
+  "version": "1.0.0",
+  "description": "Asynchronous orchestration framework for WeChat miniprogram.onLaunch(), OnLoad(), onShow() and onReady() executes asynchronous functions in sequence.",
+  "main": "framework.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitclone.com/github.com/ellisez/mp-async.git"
+  },
+  "keywords": [
+    "miniprogram",
+    "async",
+    "sequence"
+  ],
+  "author": "ellise.zhou",
+  "license": "ISC"
+}
